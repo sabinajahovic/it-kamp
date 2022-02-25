@@ -1,0 +1,37 @@
+#id1{
+    width: 400px;
+    height: 850px;
+margin: 100px auto;
+    border: 1px solid gray;
+ border-radius: 25px;
+background-color:rgb(88, 47, 47);
+}
+#id1 img{
+width: 400px;
+height: 200px;
+border-top-left-radius:  20px;
+border-top-right-radius: 20px;
+}
+#id2{
+    padding: 20px 30px;
+    /* Pading odbija sadrzaj od ivica kartice */
+}
+#id2 h1{ 
+font-size: 22px;
+text-transform: uppercase;
+color: blueviolet;
+
+}
+#id2 h3{
+  color: rgb(59, 28, 34);
+background-color: yellowgreen;
+}
+#id2 p{
+background-color: aqua;
+text-align: center;
+color: blueviolet;
+padding-top: 50px;
+}
+#id2 p:hover{
+    background-color: black;
+}

@@ -1,0 +1,39 @@
+h1{
+
+    color: blueviolet;
+    text-transform:uppercase ;
+    text-decoration:line-through;
+    background-color:rgb(44, 93, 150);
+    width: 300px;
+    height: 300px ;
+    /* Komentar: ctrl i kosa 
+     precica: */
+    
+}
+/*  klasa se selektuje tacka i ime  */
+.naslov{
+color:orange;
+text-align: center;
+background-color: #ff0000;
+}
+#id
+{
+color: rgb(116, 146, 85);
+font-size: 50px;
+
+}
+/* Napraviti tri diva 300x300, jedan preko klase jedan preko id  treci preko oboje
+
+
+
+prvi- crvena pozadina
+drugi- plava
+treci- narandzasta
+ u svakom po jedan paragraf koji je centriran i koji je gadjan preko #id
+ 
+ svaki da ima paragraf
+ 
+ 
+ 
+ faris.mecinovic.np@gmail.com
+ */

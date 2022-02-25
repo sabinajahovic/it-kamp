@@ -1,0 +1,38 @@
+body{
+    background-color: brown;
+}
+
+h3{ font-size: 50px;
+    margin-bottom: 100px;
+
+}
+div{
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+
+
+margin: 20px 20px;
+
+
+/* Margina je odbijanje elemenata divova od drugih,
+kad stavimo sve cetiri vrednosti on ih redja sa pocetkom u top,
+kad stavimo dve vrednosti on prvu vidi kao gore i dole a drugu levo i desno,
+za centriranje margin: o auto*/
+
+/*
+Border,solid stil margine,dashed isto kao  solid ali isprekidano,
+dotted istackan,double dupla,
+Padding pravi prostor i odbijanje unutar diva,odbija text od ivice diva.
+
+Za domaci provezbati napravi dva */
+
+border: 10px dashed red;
+padding-left: 20px;
+padding-top: 50px;
+
+}
+h1{
+margin-top: 100px;
+
+}
