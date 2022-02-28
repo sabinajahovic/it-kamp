@@ -1,0 +1,15 @@
+.ikonica{
+color: brown;
+}
+.ikonica1{
+    color: blueviolet;
+}
+body{
+
+    font-family: 'Roboto', sans-serif; 
+font-weight: 400px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+}
