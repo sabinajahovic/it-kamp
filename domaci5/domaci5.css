@@ -1,0 +1,47 @@
+.slika{
+    margin:100px auto;
+    width: 400px;
+    height: 800px;
+    
+    border: 1px solid gray;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+background-color: rgb(243, 169, 210);
+
+}
+
+
+.slika img{border: 1px solid gray;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+width: 400px;
+height: 300px;
+}
+.oglas{
+   
+    width: 400px;
+    height: 400px;
+ 
+    
+}
+.fa{
+color: rgb(58, 18, 52);
+
+}
+.fas{
+    color: rgb( 58, 18, 52);
+    
+    }
+.oglas h1{
+    color: rgb(58, 18, 52);
+    text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Condensed:ital,wght@1,300;1,400;1,700&display=swap');
+
+.oglas p{
+
+    font-family: 'Roboto', sans-serif;
+  
+    font-family: 'Roboto Condensed', sans-serif;
+color: rgb(28, 24, 32);
+}
