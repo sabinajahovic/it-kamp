@@ -21,7 +21,7 @@ height: 300px;
    
     width: 400px;
     height: 400px;
- 
+ padding: 20px 20px;
     
 }
 .fa{
@@ -39,9 +39,10 @@ color: rgb(58, 18, 52);
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Condensed:ital,wght@1,300;1,400;1,700&display=swap');
 
 .oglas p{
-
+       
     font-family: 'Roboto', sans-serif;
   
     font-family: 'Roboto Condensed', sans-serif;
-color: rgb(28, 24, 32);
+ 
+    color: rgb(28, 24, 32);
 }

@@ -1,0 +1,74 @@
+/* .flex{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    background-color: aquamarine;
+}
+.unutar-flexa-prvi{
+    width: 33%;
+    height: 300px;
+    background-color: rgb(43, 226, 67);
+
+}
+.unutar-flexa-drugi{
+    width:33% ;
+    height: 300px;
+    background-color: blueviolet;
+    
+}
+.unutar-flexa-treci{
+    width:33% ;
+    height: 300px;
+    background-color: rgb(209, 177, 72);
+    
+}
+.unutar-flexa-cetvrti
+{
+    width:33% ;
+    height: 300px;
+    background-color: rgb(67, 90, 74);
+    
+}
+
+
+
+*/
+/* .vh-vw{
+    width: 50vw;
+height: 100vh;
+background-color: blue;
+
+}
+.nav{
+
+heigh: 10vh;
+background-color:green;
+} */
+/* /*  yveyda i margin 0  da obuhvati ceo ekran.  *//*
+*{
+    margin: 0;
+}
+html{
+
+    font-size: 10px;
+
+}
+h1{
+    font-size: 1rem;
+
+}
+
+/* */
+html{
+    font-size: 10px;
+}
+.em{
+    font-size: 100px;
+
+}
+span{
+    font: 1em;
+}
+p{
+    font-size: 2rem;
+}

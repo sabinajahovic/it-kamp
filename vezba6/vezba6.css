@@ -1,0 +1,16 @@
+
+div{
+display: block;
+    background-color: aqua;
+}
+i span{
+    margin-left: 10px;
+    color: rgb(94, 64, 64);
+}
+#jedan{
+    color: red;
+}
+h2{
+    display: none;
+    /* bolje od visibility hiden */
+}

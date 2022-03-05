@@ -1,0 +1,36 @@
+.glavni{
+width: 100%;
+height: 50vh;
+background-color: blue;
+}
+.glavni-drugi{
+    width: 100%;
+    height: 50vh;
+    background-color: chartreuse;
+    
+}
+.donji-levo{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(42, 130, 165);
+
+}
+.donji-desno{
+    width: 50%;
+   height: 50vh;
+    background-color: rgb(218, 13, 98);
+    
+}
+.gornji-levo{
+    width: 50%;
+    height: 50vh;
+  
+    background-color: rgb(219, 221, 82);
+    
+}
+.gornji-desno{
+    width: 50%;
+    height: 50vh;
+    background-color: brown;
+    
+}

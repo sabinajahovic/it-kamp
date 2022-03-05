@@ -1,0 +1,49 @@
+body{
+margin:0;
+
+}
+div{
+display: inline-block;
+
+}
+img{
+    width: 800px;
+    height: 270px;
+}
+
+.prvi {
+  
+    width: 800px;
+    height: 350px;
+    background-color: rgb(223, 231, 231);
+    border: 1px solid gray;
+}
+.drugi{
+    
+    width: 800px;
+    height: 350px;
+    background-color: rgb(233, 218, 227);
+    border: 1px solid gray;
+    
+}
+.treci{
+    margin-top: 5px;
+    width: 800px;
+    height: 350px;
+    background-color: rgb(234, 220, 236);
+border: 1px solid rgb(146, 133, 133);
+
+}
+.cetvrti{
+
+border: 1px solid gray;
+width: 800px;
+height: 350px;
+background-color: rgb(241, 213, 213);
+}
+h1{
+    text-align: center;
+}
+i {
+    color: rgb(224, 39, 64);
+}
