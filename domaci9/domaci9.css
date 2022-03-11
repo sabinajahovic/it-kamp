@@ -1,0 +1,248 @@
+*{
+    margin: 0;
+}
+body{
+    width: 100%;
+    height: 100vh;
+}
+.nav{
+    height: 10vh;
+    width: 100%;
+    background-color: aquamarine;
+   display: flex;
+}.nav img{
+    height: 10vh;
+    width: 20%;
+    margin-left: 10px;
+}
+.nav h1{
+    color: brown;
+    font-size: 45px;
+   margin-left: 300px;
+   margin-top:-15px;
+}
+.oglas{
+    height: 40vh;
+    width: 100%;
+    
+    background-color: aqua;
+}
+.utisci{
+    height: 40vh;
+    width: 100%;
+ display: flex;
+
+    background-color: rgb(98, 155, 155);
+}
+
+
+.sadrzaj{padding: 20px;
+    width: 30%;
+
+
+}
+.sadrzaj span {
+    color: blue;
+text-decoration: underline;}
+
+
+
+.absolute{
+    position: absolute;
+    right: -50px;
+    top: -40px;
+    background-color: rgb(112, 112, 126);
+    border: 10px;
+    width: 40vw;
+    height: 40vh;
+        margin: 0;
+    }
+    body{
+        width: 100%;
+        height: 100vh;
+    }
+    .nav{
+        height: 10vh;
+        width: 100%;
+        background-color:rgb(105, 115, 124);
+       
+    }
+    .nav h1{
+        padding-top: 20px;
+        font-size: 50px;
+        padding-left: 30px;
+    }
+    .oglas{
+        height: 40vh;
+        width: 100%;
+        
+        background-color: rgb(211, 217, 223);
+    }
+    .utisci{
+        height: 40vh;
+        width: 100%;
+    
+background-color: rgb(211, 217, 223);
+    }
+    .kocka1 img{
+        width: 40vw;
+        height: 40vh;
+
+    }
+    .kocka2 img{
+        width: 40vw;
+        height:40vh ;
+    }
+    
+    .sadrzaj{padding: 20px;
+        width: 30%;
+    
+    }
+    .sadrzaj span {color: blue;
+    text-decoration: underline;}
+    
+    
+    .relative{
+        margin-left: 650px;
+        bottom: 140px;
+        position: relative;
+        height: 40vh;
+        width: 40vw;
+        background-color:rgb(211, 217, 223);
+    
+        }
+    .absolute1{
+        position: absolute;
+        right: 0px;
+        top: 200px;
+        background-color: rgb(112, 112, 126);
+        
+        width: 30vw;
+        height: 6vh;
+    
+    }
+    .absolute2{
+        position: absolute;
+        right: 0px;
+        top: 230px;
+        background-color: rgb(29, 29, 65);
+        
+        width: 20vw;
+        height: 6vh;
+    
+    } 
+    
+    .absolute1 p{
+        
+        font-size: 30px;
+         
+        text-align: center;
+         color: rgb(243, 246, 247) ;
+    }
+
+
+.absolute2 p{
+    font-size: 20px;
+    padding-top: 10px;
+    text-align: center;
+    color: rgb(233, 241, 241) ;
+}
+.relative img{
+    
+    width: 40vw;
+    height: 30vh;
+}
+.kocka1{
+    
+    position: relative;
+    width: 30vw;
+    height: 30vh;
+    background-color:rgb(211, 217, 223);
+}
+.kocka1 img{
+    margin:30px 10px;
+    width: 200px;
+    height: 200px;
+}
+.stiker1{
+position: absolute;
+width: 80px;
+height: 80px;
+bottom:130px;
+background-color: rgb(145, 120, 120);
+left:160px;
+border-radius: 50%;
+
+} 
+.stiker1 p{ 
+    font-size: 30px;
+    margin-left: 25px;
+    margin-top: 20px ;
+}
+
+
+.kocka2{
+    width: 30vw;
+    height: 30vh;
+    background-color:rgb(211, 217, 223);
+
+}
+.kocka3{
+    width: 30vw;
+    height: 30vh;
+    background-color:rgb(211, 217, 223);
+}
+.kocka2 img{position: relative;
+    margin:30px 10px;
+    width: 200px;
+    height: 200px;
+}
+.stiker2{
+    position: absolute;
+width: 80px;
+height: 80px;
+bottom:280px;
+background-color: rgb(145, 120, 120);
+left:620px;
+border-radius: 50%;
+
+}
+.stiker2 p{ 
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 25px ;
+}
+.kocka3 img{
+    position: relative;
+    margin:30px 10px;
+    width: 200px;
+    height: 200px;
+   
+}
+.stiker3{
+    position: absolute;
+width: 60px;
+height: 60px;
+bottom:280px;
+background-color: rgb(145, 120, 120);
+left:1100px;
+border-radius: 50%;
+   
+}
+.stiker3 p{ 
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 17px ;
+}
+.footer{
+    position: fixed;
+    margin-top: 280px;
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(58, 56, 59);
+}
+.footer p{
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
