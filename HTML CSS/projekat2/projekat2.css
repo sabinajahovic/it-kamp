@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+
+}
+.hero{
+    display: flex;
+    justify-content: center;
+}
+.hero1{
+    width: 50%;
+    height: 100vh;
+    background-color: aliceblue;
+
+}
+.nav{
+width: 100%;
+height: 10vh;
+background-color: aliceblue;
+display: flex;
+justify-content:space-around;
+align-items: center;
+
+}
+.nav i{
+    color: brown;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.nav h2{
+    padding-top: 30px;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+    padding-top: 30px;
+
+}
+.nav span{
+    color: brown;
+
+}
+.meet{
+    width: 400px;
+    height: 30vh;
+    background-color:aliceblue;
+    padding-left: 30px;
+    margin-left: 150px;
+    margin-top:  130px;
+    font-family: "Mitr",sans-serif;
+
+    color: #4D312C;
+}
+    .meet p{
+        padding-top: 20px;
+    }
+    .menu{
+        margin-top: 20px;
+        width: 150px;
+        height: 50px;
+        /* border-bottom-left-radius: 30%;
+        border-bottom-right-radius: 30%;
+        border-top-left-radius: 30%;
+        border-top-right-radius: 30%; */
+        border-radius: 35px;
+        background-color: #FE5F41;
+        display: flex;
+        justify-content: center;
+
+    }
+    .eat{
+        display: flex;
+        justify-content: center;
+    }
+     i{ color:#FE5F41;
+    margin-top: 28px;
+    margin-left: 20px;
+    
+    }
+    .play a{
+        color: #FE5F41;
+        padding-left: 10px;
+        text-decoration: none;
+    }
+
+    .menu p{
+        color: white;
+        font-size: 20px;
+        padding-top: 10px;
+        font-family: "Mitr",sans-serif;
+    }
+.hero2{
+    width: 50%;
+    height: 100vh;
+    background-image: url(hrana.webp);
+}
+.contact{
+    width: 190px;
+    height: 5vh;
+    border-radius: 30px;
+    background-color: #FE5F41;
+    margin-left: 60%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+  
+}
+.contact i{
+    color: white;
+    margin-top: 10px;
+}
+.contact p{color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+.best{
+    width: 100%;
+    height: 30vh;
+    background-color: white;
+/* padding-left: 500px; */
+padding-top: 20px;
+color: #4D312C;
+justify-content: center;
+}
+.best p{
+    padding-top: 10px;
+
+}
+.best1{
+    padding-left: 500px;
+}
+.healthy{
+width: 100%;
+height: 70vh;
+background-color: white;
+display: flex;
+justify-content: center;
+}
+.meal{
+    height: 40vh;
+    width: 25%;
+    border: 1px solid #4D312C;
+margin:10px;
+box-shadow:#4D312C  0px 0px 13px 1px;
+
+}
+.food{
+    height: 40vh;
+    width: 25%;
+    border: 1px solid #4D312C;
+    box-shadow:#4D312C  0px 0px 13px 1px;
+margin: 10px;
+}.coffe{
+    height: 40vh;
+    width: 25%;
+    border: 1px solid #4D312C;
+margin: 10px;
+box-shadow:#4D312C  0px 0px 13px 1px
+}
