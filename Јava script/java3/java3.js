@@ -58,6 +58,7 @@
 
 
 
+
 //funkcija koja brise razmake
 // const string='ovo je string';
 // let newString=" "
