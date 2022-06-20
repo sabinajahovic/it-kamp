@@ -59,6 +59,7 @@ function favFood(text,rating){
 console.log(favFood.call(hrana,"je ukusna",9))
 console.log(favFood.apply(hrana,["nije ukusna",6])) //isto kao call ali u niz stavimo one koje menjamo
 
+
 //BIND= vraca funkciju u kojoj menjamo this
 
 const bindFunkc= favFood.bind(hrana);
@@ -69,3 +70,6 @@ console.log(bindFunkc("nije nesto",5))
 
 
 // console.log(favFood.bind(hrana))
+//ZADATAK NADJI NAJVECI BROJ IZ NIZA
+const niz=[10,24,5,67,8,78,90]
+console.log(Math.max(null,niz))
