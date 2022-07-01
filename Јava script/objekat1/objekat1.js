@@ -63,3 +63,5 @@ radnik.adresa.getAddress() //vratice samo objekat adresa
 //  radnik.age ,"godina",
 
 // )
+
+

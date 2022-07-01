@@ -13,11 +13,7 @@
 // console.log(prviZadatak(miles))
 
 
-
-
-// 2.From the array of numbers, choose even double even numbers and compute the sum using Array's filter, map and reduce methods.
-//parne izdviji pa kvadrira pa sumu tih kvadrata
- 
+//ZADATAK uzeti parne kvadrirati i suma tih kvadtrata
 // let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // const drugiZadatak=(array)=>{
 // const parniNiz=array.filter((el)=> el%2===0)
