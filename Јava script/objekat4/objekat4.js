@@ -108,6 +108,12 @@ const person={
     state: "USA"
 
 }
+
+
+
+
+
+
 const extendedPerson={
     ...person,phone: '5326438483',
     adresss: 'NY'
